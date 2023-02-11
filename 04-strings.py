@@ -13,3 +13,6 @@ print(my_new_line_string)
 
 my_tab_string = "\tEste es un string con tabulacion"
 print(my_tab_string)
+
+my_escape_string = "\tEste es un string \n escapado"
+print(my_escape_string)
